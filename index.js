@@ -10,3 +10,6 @@ function overwriteBestCustomer() {
   bestCustomer = 'maybe bob'
 }
 const leastFavoriteCustomer = 'eggplant emoji';
+function changeLeastFavoriteCustomer() {
+  leastFavoriteCustomer = 'potato'
+}
