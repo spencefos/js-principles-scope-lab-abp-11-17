@@ -11,5 +11,9 @@ function overwriteBestCustomer() {
 }
 const leastFavoriteCustomer = 'eggplant emoji';
 function changeLeastFavoriteCustomer() {
-  leastFavoriteCustomer = 'potato'
+  leastFavoriteCustomer = 'poop emoji'
+}
+function attemptTwoFavoriteCustomers() {
+  const favoriteCustomer = 'eggplant emoji'
+  const favoriteCustomer = 'poop emoji'
 }
