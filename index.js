@@ -14,6 +14,6 @@ function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'poop emoji'
 }
 function attemptTwoFavoriteCustomers() {
-  const favoriteCustomer = 'eggplant emoji'
-  const favoriteCustomer = 'poop emoji'
+  let favoriteCustomer = 'eggplant emoji'
+  let favoriteCustomer = 'poop emoji'
 }
